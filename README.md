@@ -1,5 +1,7 @@
 ## 📌 Advanced Hospital Management System (Kotlin - Console Based)
 
+🚀 [Click here to run the application live in your browser!](https://replit.com/@rajeshgaikwad02/Hospital-Management-System)
+
 A beginner-to-intermediate level, console-based Hospital Management System written in Kotlin. This project demonstrates object-oriented programming concepts with enhanced features like billing, admission tracking, doctor workload limits, and long-stay alerts. It provides a structured and realistic simulation of hospital operations using a menu-driven interface.
 
 ---
